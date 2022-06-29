@@ -1,0 +1,33 @@
+Algo intraday test 1	
+	
+	
+	
+Version 1	
+	
+- [ ] Efficient data flow from Alice blue for designated nifty 100 list. Data to be kept in local repo and data stored in a database.	
+	1. Parse Alice blue live tick data and check for nifty 100 list.
+	2. Storing data(POC)
+	3.EOD data to be used in next day tick???(how)
+
+	
+	
+
+
+- [ ] Designing of indicators based on data.	
+	1. SMA or EMA
+	2. HM
+	3. Heiken Ashi, Vwap
+
+- [ ] Entry strategy.	
+- [ ] Exit strategy.	
+- [ ] Analytical tool on trade journal.	
+	
+
+
+Version 2
+
+- [ ] POC on money management and risk management.
+- [ ] POC  on data collected from trades taken or virtual trades for self learning algorithm(Reinforcement learning)
+- [ ] GUI design.		
+- [ ] External anomalies.
+

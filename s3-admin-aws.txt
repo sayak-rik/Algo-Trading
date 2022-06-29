@@ -1,0 +1,5 @@
+#Not being used anywhere, only for AWS s3 console access
+
+Account ID : 453192226048
+username : s3-admin
+pwd : algoabcd@1234
